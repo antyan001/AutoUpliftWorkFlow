@@ -1,4 +1,4 @@
-# Automated and Configurable Feature Calcer Engine in connection with UPLIFT Modelling 
+# Automated and Configurable Features Calcer Engine in connection with UPLIFT Modelling 
 
 *PROJECT STRUCTURE*:
 - `AutoUpliftWorkFlow`:  
